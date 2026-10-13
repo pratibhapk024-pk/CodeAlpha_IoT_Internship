@@ -40,3 +40,4 @@ Project Files
 - Circuit screenshots — demonstration of the circuit and LED operation
 
 Tinkercad Simulation Link
+https://www.tinkercad.com/things/0C2aRAGGeI1-codealphatask2automaticstreetlight
